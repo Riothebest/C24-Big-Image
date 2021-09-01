@@ -1,1 +1,1 @@
-# C24-Big-Image
+# Project_Template_24
